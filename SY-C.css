@@ -1,0 +1,11 @@
+.a::before {
+    content: "(ABCDEFGHI)";
+}
+
+.b {
+    border: 1px solid darkblue;
+    width: 100px;
+    height: 200px;
+    padding: 90px;
+    margin: 50px;
+}
