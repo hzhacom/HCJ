@@ -2,10 +2,35 @@
     content: "(ABCDEFGHI)";
 }
 
-.b {
-    border: 1px solid darkblue;
-    width: 100px;
+
+.v {
+    border: 5px solid darkblue;
+    width: 10vw;
+    height: 20vh;
+    font-size: 10vh;
+}
+
+.q {
+    width: 200px;
     height: 200px;
-    padding: 90px;
-    margin: 50px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.mg {
+    object-fit: contain;
+}
+
+
+/* ====================================================================================================================== */
+
+.n p{
+    color: red;
+}
+
+ul > li {
+    color: blue;
 }
